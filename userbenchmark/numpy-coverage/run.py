@@ -61,4 +61,5 @@ def run(args: list[str]):
                 print(("filename: %s, modulename: %s, funcname: %s"
                    % (filename, modulename, funcname)))
 
+    print("Done.")
 
